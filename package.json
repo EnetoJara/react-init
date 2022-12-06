@@ -172,7 +172,7 @@
     "core-js": "3.6.5",
     "es6-promise": "4.2.8",
     "normalize.scss": "0.1.0",
-    "qs": "6.9.4",
+    "qs": "6.9.7",
     "querystring": "0.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
